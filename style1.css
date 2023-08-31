@@ -1,0 +1,8 @@
+section{
+    padding-top: 5rem; 
+    padding-bottom: 5rem;
+}
+
+section:nth-child(odd){
+    background-color: #8F969C;
+}
